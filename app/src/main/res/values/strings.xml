@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MotionTest</string>
+    <string name="ramadan_kareem">Ramadan Kareem</string>
+    <string name="ramadan_date">1 ramadan , 1444</string>
+    <string name="day">ThursDay</string>
+    <string name="praing_times">Praing Times</string>
+    <string name="fagr_tv">Fagr</string>
+    <string name="fagr_time">4.30</string>
+    <string name="al_shrouk_tv">Al Shrouk</string>
+    <string name="al_shrouk_time_tv">4.30</string>
+    <string name="al_dohr_tv">Al Dohr</string>
+    <string name="dohr_time">12.00</string>
+    <string name="al_asr_tv">Al Asr</string>
+    <string name="al_asr_time_tv">3.30</string>
+    <string name="al_magreb_tv">Al Magreb</string>
+    <string name="al_magreb_time_tv">6.30</string>
+    <string name="al_eshaa_tv">Al Eshaa</string>
+    <string name="al_eshaa_time_tv">7.30</string>
+    <string name="al_taraweeh_tv">Al Taraweeh</string>
+    <string name="al_taraweeh_time_tv">8.00</string>
+    <string name="al_tahagod_tv">Al Tahagod</string>
+    <string name="al_tahagod_time_tv">1.30</string>
+</resources>

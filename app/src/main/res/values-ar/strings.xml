@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رمضان</string>
+    <string name="ramadan_kareem">رمضان كريم</string>
+    <string name="ramadan_date">١ رمضان , ١٤٤٤</string>
+    <string name="day">الخميس</string>
+    <string name="praing_times">مواقيت الصلاه</string>
+    <string name="fagr_tv">الفجر</string>
+    <string name="fagr_time">٤:٣٩ </string>
+    <string name="al_shrouk_tv">الشروق</string>
+    <string name="al_shrouk_time_tv">٦:٠٤</string>
+    <string name="al_dohr_tv">الضهر</string>
+    <string name="dohr_time">١٢:١٠</string>
+    <string name="al_asr_tv">العصر</string>
+    <string name="al_asr_time_tv">٣:٣٨</string>
+    <string name="al_magreb_tv">المغرب</string>
+    <string name="al_magreb_time_tv">٦:١٥</string>
+    <string name="al_eshaa_tv">العشاء</string>
+    <string name="al_eshaa_time_tv">٧:٤٥</string>
+    <string name="al_taraweeh_tv">التراويح</string>
+    <string name="al_taraweeh_time_tv">٨:٠٠</string>
+    <string name="al_tahagod_tv">التهجد</string>
+    <string name="al_tahagod_time_tv"> ١:٣٠</string>
+
+
+</resources>
